@@ -1,0 +1,2 @@
+# SolenoidCalculator
+Created with CodeSandbox
